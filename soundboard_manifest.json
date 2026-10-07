@@ -1,0 +1,282 @@
+[
+  {
+    "filename": "airhorn_short.wav",
+    "title": "Airhorn Short",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.78
+  },
+  {
+    "filename": "cartoon_slip.wav",
+    "title": "Cartoon Slip",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.64
+  },
+  {
+    "filename": "clown_horn.wav",
+    "title": "Clown Horn",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.51
+  },
+  {
+    "filename": "dramatic_boom.wav",
+    "title": "Dramatic Boom",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.72
+  },
+  {
+    "filename": "error_stack.wav",
+    "title": "Error Stack",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.5799546485260771
+  },
+  {
+    "filename": "fail_fanfare.wav",
+    "title": "Fail Fanfare",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.76
+  },
+  {
+    "filename": "fake_disconnect.wav",
+    "title": "Fake Disconnect",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.5249659863945578
+  },
+  {
+    "filename": "fake_ping.wav",
+    "title": "Fake Ping",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.32
+  },
+  {
+    "filename": "glitch_burst.wav",
+    "title": "Glitch Burst",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.8499319727891157
+  },
+  {
+    "filename": "metal_bonk.wav",
+    "title": "Metal Bonk",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.55
+  },
+  {
+    "filename": "microwave_done.wav",
+    "title": "Microwave Done",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.72
+  },
+  {
+    "filename": "mini_dialup.wav",
+    "title": "Mini Dialup",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.7849433106575964
+  },
+  {
+    "filename": "panic_clicks.wav",
+    "title": "Panic Clicks",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.7588662131519275
+  },
+  {
+    "filename": "record_scratchish.wav",
+    "title": "Record Scratchish",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.82
+  },
+  {
+    "filename": "sad_tromboneish.wav",
+    "title": "Sad Tromboneish",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.979954648526077
+  },
+  {
+    "filename": "suspense_sting.wav",
+    "title": "Suspense Sting",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.77
+  },
+  {
+    "filename": "tiny_violinish.wav",
+    "title": "Tiny Violinish",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.95
+  },
+  {
+    "filename": "uh_oh_chime.wav",
+    "title": "Uh Oh Chime",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.5549659863945579
+  },
+  {
+    "filename": "victory_fanfare.wav",
+    "title": "Victory Fanfare",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.5799546485260771
+  },
+  {
+    "filename": "wrong_buzzer.wav",
+    "title": "Wrong Buzzer",
+    "category": "SFX",
+    "notes": "Original procedural sound effect.",
+    "duration": 0.52
+  },
+  {
+    "filename": "absolutely_not.wav",
+    "title": "Absolutely not.",
+    "category": "Voice",
+    "notes": "Hard denial button.",
+    "duration": 1.079092970521542
+  },
+  {
+    "filename": "bro_is_lost.wav",
+    "title": "Bro is lost.",
+    "category": "Voice",
+    "notes": "For confusing callouts.",
+    "duration": 1.0397278911564627
+  },
+  {
+    "filename": "caught_in_4k.wav",
+    "title": "Caught in four K.",
+    "category": "Voice",
+    "notes": "For instant evidence.",
+    "duration": 0.9113378684807256
+  },
+  {
+    "filename": "chat_is_this_real.wav",
+    "title": "Chat, is this real?",
+    "category": "Voice",
+    "notes": "Streamer-style disbelief.",
+    "duration": 1.491655328798186
+  },
+  {
+    "filename": "delete_that.wav",
+    "title": "Delete that immediately.",
+    "category": "Voice",
+    "notes": "For cursed sentences.",
+    "duration": 1.144625850340136
+  },
+  {
+    "filename": "evidence_folder.wav",
+    "title": "That is going in the evidence folder.",
+    "category": "Voice",
+    "notes": "For suspicious moments.",
+    "duration": 1.9642630385487527
+  },
+  {
+    "filename": "factory_reset_sentence.wav",
+    "title": "Please factory reset that sentence.",
+    "category": "Voice",
+    "notes": "For verbal disasters.",
+    "duration": 1.878095238095238
+  },
+  {
+    "filename": "i_have_questions.wav",
+    "title": "I have several questions.",
+    "category": "Voice",
+    "notes": "For baffling choices.",
+    "duration": 1.6011337868480726
+  },
+  {
+    "filename": "mic_check_nope.wav",
+    "title": "Mic check. Nope.",
+    "category": "Voice",
+    "notes": "For audio chaos.",
+    "duration": 1.9464399092970521
+  },
+  {
+    "filename": "negative_charisma.wav",
+    "title": "Negative charisma detected.",
+    "category": "Voice",
+    "notes": "Low-social-stat gag.",
+    "duration": 1.4233560090702948
+  },
+  {
+    "filename": "pause.wav",
+    "title": "Pause.",
+    "category": "Voice",
+    "notes": "Tiny interrupt.",
+    "duration": 0.5884353741496599
+  },
+  {
+    "filename": "reported_for_vibes.wav",
+    "title": "Reported for suspicious vibes.",
+    "category": "Voice",
+    "notes": "Harmless fake report.",
+    "duration": 1.6864399092970521
+  },
+  {
+    "filename": "sir_this_is_discord.wav",
+    "title": "Sir, this is Discord.",
+    "category": "Voice",
+    "notes": "For too-serious rants.",
+    "duration": 1.6960544217687075
+  },
+  {
+    "filename": "skill_issue.wav",
+    "title": "Skill issue.",
+    "category": "Voice",
+    "notes": "Small poke for failed plays.",
+    "duration": 0.7552380952380953
+  },
+  {
+    "filename": "straight_to_timeout.wav",
+    "title": "Straight to timeout.",
+    "category": "Voice",
+    "notes": "Mock moderation.",
+    "duration": 1.1245351473922902
+  },
+  {
+    "filename": "that_was_illegal.wav",
+    "title": "That was illegal.",
+    "category": "Voice",
+    "notes": "For unfair plays.",
+    "duration": 0.8887981859410431
+  },
+  {
+    "filename": "the_audacity.wav",
+    "title": "The audacity is remarkable.",
+    "category": "Voice",
+    "notes": "Overdramatic reaction.",
+    "duration": 1.709251700680272
+  },
+  {
+    "filename": "uninstall_choices.wav",
+    "title": "Uninstall those life choices.",
+    "category": "Voice",
+    "notes": "Roast button.",
+    "duration": 1.7084807256235828
+  },
+  {
+    "filename": "yikes_department.wav",
+    "title": "This came from the yikes department.",
+    "category": "Voice",
+    "notes": "Dry commentary.",
+    "duration": 1.6568707482993197
+  },
+  {
+    "filename": "you_tried.wav",
+    "title": "You tried.",
+    "category": "Voice",
+    "notes": "Gentle fail sting.",
+    "duration": 0.7563718820861678
+  }
+]

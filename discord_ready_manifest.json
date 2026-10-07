@@ -1,0 +1,242 @@
+[
+  {
+    "filename": "absolutely_not.mp3",
+    "source_wav": "absolutely_not.wav",
+    "duration": "1.08",
+    "size_kb": "9.0"
+  },
+  {
+    "filename": "airhorn_short.mp3",
+    "source_wav": "airhorn_short.wav",
+    "duration": "0.78",
+    "size_kb": "6.3"
+  },
+  {
+    "filename": "bro_is_lost.mp3",
+    "source_wav": "bro_is_lost.wav",
+    "duration": "1.04",
+    "size_kb": "8.6"
+  },
+  {
+    "filename": "cartoon_slip.mp3",
+    "source_wav": "cartoon_slip.wav",
+    "duration": "0.64",
+    "size_kb": "5.3"
+  },
+  {
+    "filename": "caught_in_4k.mp3",
+    "source_wav": "caught_in_4k.wav",
+    "duration": "0.91",
+    "size_kb": "7.6"
+  },
+  {
+    "filename": "chat_is_this_real.mp3",
+    "source_wav": "chat_is_this_real.wav",
+    "duration": "1.49",
+    "size_kb": "12.2"
+  },
+  {
+    "filename": "clown_horn.mp3",
+    "source_wav": "clown_horn.wav",
+    "duration": "0.51",
+    "size_kb": "4.3"
+  },
+  {
+    "filename": "delete_that.mp3",
+    "source_wav": "delete_that.wav",
+    "duration": "1.14",
+    "size_kb": "9.4"
+  },
+  {
+    "filename": "dramatic_boom.mp3",
+    "source_wav": "dramatic_boom.wav",
+    "duration": "0.72",
+    "size_kb": "5.9"
+  },
+  {
+    "filename": "error_stack.mp3",
+    "source_wav": "error_stack.wav",
+    "duration": "0.58",
+    "size_kb": "4.9"
+  },
+  {
+    "filename": "evidence_folder.mp3",
+    "source_wav": "evidence_folder.wav",
+    "duration": "1.96",
+    "size_kb": "15.9"
+  },
+  {
+    "filename": "factory_reset_sentence.mp3",
+    "source_wav": "factory_reset_sentence.wav",
+    "duration": "1.88",
+    "size_kb": "15.1"
+  },
+  {
+    "filename": "fail_fanfare.mp3",
+    "source_wav": "fail_fanfare.wav",
+    "duration": "0.76",
+    "size_kb": "6.3"
+  },
+  {
+    "filename": "fake_disconnect.mp3",
+    "source_wav": "fake_disconnect.wav",
+    "duration": "0.52",
+    "size_kb": "4.5"
+  },
+  {
+    "filename": "fake_ping.mp3",
+    "source_wav": "fake_ping.wav",
+    "duration": "0.32",
+    "size_kb": "2.9"
+  },
+  {
+    "filename": "glitch_burst.mp3",
+    "source_wav": "glitch_burst.wav",
+    "duration": "0.85",
+    "size_kb": "6.9"
+  },
+  {
+    "filename": "i_have_questions.mp3",
+    "source_wav": "i_have_questions.wav",
+    "duration": "1.60",
+    "size_kb": "13.1"
+  },
+  {
+    "filename": "metal_bonk.mp3",
+    "source_wav": "metal_bonk.wav",
+    "duration": "0.55",
+    "size_kb": "4.7"
+  },
+  {
+    "filename": "mic_check_nope.mp3",
+    "source_wav": "mic_check_nope.wav",
+    "duration": "1.95",
+    "size_kb": "15.7"
+  },
+  {
+    "filename": "microwave_done.mp3",
+    "source_wav": "microwave_done.wav",
+    "duration": "0.72",
+    "size_kb": "5.9"
+  },
+  {
+    "filename": "mini_dialup.mp3",
+    "source_wav": "mini_dialup.wav",
+    "duration": "0.78",
+    "size_kb": "6.5"
+  },
+  {
+    "filename": "negative_charisma.mp3",
+    "source_wav": "negative_charisma.wav",
+    "duration": "1.42",
+    "size_kb": "11.6"
+  },
+  {
+    "filename": "panic_clicks.mp3",
+    "source_wav": "panic_clicks.wav",
+    "duration": "0.76",
+    "size_kb": "6.3"
+  },
+  {
+    "filename": "pause.mp3",
+    "source_wav": "pause.wav",
+    "duration": "0.59",
+    "size_kb": "5.1"
+  },
+  {
+    "filename": "record_scratchish.mp3",
+    "source_wav": "record_scratchish.wav",
+    "duration": "0.82",
+    "size_kb": "6.7"
+  },
+  {
+    "filename": "reported_for_vibes.mp3",
+    "source_wav": "reported_for_vibes.wav",
+    "duration": "1.69",
+    "size_kb": "13.7"
+  },
+  {
+    "filename": "sad_tromboneish.mp3",
+    "source_wav": "sad_tromboneish.wav",
+    "duration": "0.98",
+    "size_kb": "8.0"
+  },
+  {
+    "filename": "sir_this_is_discord.mp3",
+    "source_wav": "sir_this_is_discord.wav",
+    "duration": "1.70",
+    "size_kb": "13.7"
+  },
+  {
+    "filename": "skill_issue.mp3",
+    "source_wav": "skill_issue.wav",
+    "duration": "0.76",
+    "size_kb": "6.3"
+  },
+  {
+    "filename": "straight_to_timeout.mp3",
+    "source_wav": "straight_to_timeout.wav",
+    "duration": "1.12",
+    "size_kb": "9.4"
+  },
+  {
+    "filename": "suspense_sting.mp3",
+    "source_wav": "suspense_sting.wav",
+    "duration": "0.77",
+    "size_kb": "6.3"
+  },
+  {
+    "filename": "that_was_illegal.mp3",
+    "source_wav": "that_was_illegal.wav",
+    "duration": "0.89",
+    "size_kb": "7.6"
+  },
+  {
+    "filename": "the_audacity.mp3",
+    "source_wav": "the_audacity.wav",
+    "duration": "1.71",
+    "size_kb": "13.9"
+  },
+  {
+    "filename": "tiny_violinish.mp3",
+    "source_wav": "tiny_violinish.wav",
+    "duration": "0.95",
+    "size_kb": "7.8"
+  },
+  {
+    "filename": "uh_oh_chime.mp3",
+    "source_wav": "uh_oh_chime.wav",
+    "duration": "0.55",
+    "size_kb": "4.7"
+  },
+  {
+    "filename": "uninstall_choices.mp3",
+    "source_wav": "uninstall_choices.wav",
+    "duration": "1.71",
+    "size_kb": "13.9"
+  },
+  {
+    "filename": "victory_fanfare.mp3",
+    "source_wav": "victory_fanfare.wav",
+    "duration": "0.58",
+    "size_kb": "4.9"
+  },
+  {
+    "filename": "wrong_buzzer.mp3",
+    "source_wav": "wrong_buzzer.wav",
+    "duration": "0.52",
+    "size_kb": "4.3"
+  },
+  {
+    "filename": "yikes_department.mp3",
+    "source_wav": "yikes_department.wav",
+    "duration": "1.66",
+    "size_kb": "13.5"
+  },
+  {
+    "filename": "you_tried.mp3",
+    "source_wav": "you_tried.wav",
+    "duration": "0.76",
+    "size_kb": "6.3"
+  }
+]

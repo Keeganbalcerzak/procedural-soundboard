@@ -1,0 +1,5 @@
+.vendor/
+discord-upload-queue/
+clips/
+discord-ready-mp3/
+__pycache__/

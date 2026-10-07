@@ -1,0 +1,41 @@
+filename,title,category,duration,notes
+airhorn_short.wav,Airhorn Short,SFX,0.78,Original procedural sound effect.
+cartoon_slip.wav,Cartoon Slip,SFX,0.64,Original procedural sound effect.
+clown_horn.wav,Clown Horn,SFX,0.51,Original procedural sound effect.
+dramatic_boom.wav,Dramatic Boom,SFX,0.72,Original procedural sound effect.
+error_stack.wav,Error Stack,SFX,0.58,Original procedural sound effect.
+fail_fanfare.wav,Fail Fanfare,SFX,0.76,Original procedural sound effect.
+fake_disconnect.wav,Fake Disconnect,SFX,0.52,Original procedural sound effect.
+fake_ping.wav,Fake Ping,SFX,0.32,Original procedural sound effect.
+glitch_burst.wav,Glitch Burst,SFX,0.85,Original procedural sound effect.
+metal_bonk.wav,Metal Bonk,SFX,0.55,Original procedural sound effect.
+microwave_done.wav,Microwave Done,SFX,0.72,Original procedural sound effect.
+mini_dialup.wav,Mini Dialup,SFX,0.78,Original procedural sound effect.
+panic_clicks.wav,Panic Clicks,SFX,0.76,Original procedural sound effect.
+record_scratchish.wav,Record Scratchish,SFX,0.82,Original procedural sound effect.
+sad_tromboneish.wav,Sad Tromboneish,SFX,0.98,Original procedural sound effect.
+suspense_sting.wav,Suspense Sting,SFX,0.77,Original procedural sound effect.
+tiny_violinish.wav,Tiny Violinish,SFX,0.95,Original procedural sound effect.
+uh_oh_chime.wav,Uh Oh Chime,SFX,0.55,Original procedural sound effect.
+victory_fanfare.wav,Victory Fanfare,SFX,0.58,Original procedural sound effect.
+wrong_buzzer.wav,Wrong Buzzer,SFX,0.52,Original procedural sound effect.
+absolutely_not.wav,Absolutely not.,Voice,1.08,Hard denial button.
+bro_is_lost.wav,Bro is lost.,Voice,1.04,For confusing callouts.
+caught_in_4k.wav,Caught in four K.,Voice,0.91,For instant evidence.
+chat_is_this_real.wav,"Chat, is this real?",Voice,1.49,Streamer-style disbelief.
+delete_that.wav,Delete that immediately.,Voice,1.14,For cursed sentences.
+evidence_folder.wav,That is going in the evidence folder.,Voice,1.96,For suspicious moments.
+factory_reset_sentence.wav,Please factory reset that sentence.,Voice,1.88,For verbal disasters.
+i_have_questions.wav,I have several questions.,Voice,1.60,For baffling choices.
+mic_check_nope.wav,Mic check. Nope.,Voice,1.95,For audio chaos.
+negative_charisma.wav,Negative charisma detected.,Voice,1.42,Low-social-stat gag.
+pause.wav,Pause.,Voice,0.59,Tiny interrupt.
+reported_for_vibes.wav,Reported for suspicious vibes.,Voice,1.69,Harmless fake report.
+sir_this_is_discord.wav,"Sir, this is Discord.",Voice,1.70,For too-serious rants.
+skill_issue.wav,Skill issue.,Voice,0.76,Small poke for failed plays.
+straight_to_timeout.wav,Straight to timeout.,Voice,1.12,Mock moderation.
+that_was_illegal.wav,That was illegal.,Voice,0.89,For unfair plays.
+the_audacity.wav,The audacity is remarkable.,Voice,1.71,Overdramatic reaction.
+uninstall_choices.wav,Uninstall those life choices.,Voice,1.71,Roast button.
+yikes_department.wav,This came from the yikes department.,Voice,1.66,Dry commentary.
+you_tried.wav,You tried.,Voice,0.76,Gentle fail sting.
